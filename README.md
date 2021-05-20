@@ -11,4 +11,4 @@ Where’s all the socks or only WAS is a computer program developed as study obj
 
 This library uses obsolete network calls, I don't recommend you to compile and execute it.
 
-More details in: https://henriquefantini.com/en/portfolio/1
+More details in: https://henriquefantini.com/#/en/portfolio/1
